@@ -309,7 +309,10 @@
   .logo-mobile, .instagram-mobile {
     display: none !important;
   }
-  
+  .white{
+    border-color: black;
+    color: white;
+  }
   @media (max-width: 935px) {
     .sidebar {
       display: none;
