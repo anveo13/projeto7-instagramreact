@@ -1,7 +1,14 @@
-.bg-salmon {
+.vermelho, .heart {
     color: red;
   }
 
 .pretin {
     color: red;
+}
+
+.escondido {
+    display: none;
+}
+button{
+    border: none;
 }
